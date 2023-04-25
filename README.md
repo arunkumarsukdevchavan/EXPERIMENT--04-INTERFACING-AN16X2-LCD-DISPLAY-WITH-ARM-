@@ -173,6 +173,7 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 
 ## STM 32 CUBE PROGRAM :
+```
 /* USER CODE BEGIN Header */
 /**
   ******************************************************************************
@@ -277,7 +278,7 @@ int main(void)
   }
   /* USER CODE END 3 */
 }
-
+```
 
 
 ## Output screen shots of proteus  :

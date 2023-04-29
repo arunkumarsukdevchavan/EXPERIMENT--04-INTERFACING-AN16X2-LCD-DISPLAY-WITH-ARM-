@@ -282,6 +282,8 @@ int main(void)
 
 
 ## Output screen shots of proteus  :
+![PM EXP 04 1](https://user-images.githubusercontent.com/118343978/235296628-def1ad17-73cb-4e82-ae2f-384735a11188.png)
+
  
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
